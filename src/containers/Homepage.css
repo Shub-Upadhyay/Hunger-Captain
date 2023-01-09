@@ -1,0 +1,53 @@
+.background-top{
+  width: 100%;
+}
+.headers {
+  position: absolute;
+  right: 80%;
+}
+.headerText{
+    color:yellow;
+    position: absolute;
+    bottom: 50vh;
+    left: 11%;
+    font-size: 2.5vw;
+}
+
+.header-bottom{
+    position: relative;
+    bottom: 4.6vh;;
+}
+
+.sub-heading{
+color:#a80e0e;
+position: relative;
+left:40%;
+font-size: 2vw;
+}
+
+.yellow-line{
+position: relative;
+bottom:4vh;
+left: 42.5%;
+width: 17%;
+}
+
+.short-des{
+  position: relative;
+  left:39%;
+  bottom: 3vh;;
+}
+
+.buttons{
+  position: relative;
+  left:37%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 0.7vw;
+  background-color:#ad1507;
+  color: white;
+}
+
+/* .dishItems{
+  display: flex;
+} */
